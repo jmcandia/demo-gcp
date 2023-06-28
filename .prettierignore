@@ -1,0 +1,15 @@
+# Bower dependency directory (https://bower.io/)
+bower_components
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Ignore dist directory
+dist/*
+
+# Igonore .angular directory
+.angular/*
+
+# Ignore all HTML files
+*.html
